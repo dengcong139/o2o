@@ -1,0 +1,13 @@
+com\deng\o2o\entity\LocalAuth.class
+com\deng\o2o\entity\Product.class
+com\deng\o2o\entity\WechatAuth.class
+com\deng\o2o\entity\Area.class
+com\deng\o2o\dao\AreaDao.class
+com\deng\o2o\entity\Shop.class
+com\deng\o2o\service\impl\AreaServiceImpl.class
+com\deng\o2o\entity\PersonInfo.class
+com\deng\o2o\entity\ShopCategory.class
+com\deng\o2o\service\AreaService.class
+com\deng\o2o\entity\ProductCategory.class
+com\deng\o2o\entity\HeadLine.class
+com\deng\o2o\entity\ProductImg.class
